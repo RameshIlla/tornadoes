@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Tornadoes</title>
+</head>
+<body>
+    <header style="background-color: #007bff; color: #fff; padding: 20px; text-align: center; font-family: Arial, sans-serif;">
+        <h1>All About Tornadoes</h1>
+    </header>
+    <main style="padding: 20px; font-family: Arial, sans-serif;">
+        <section>
+            <h2>What is a Tornado?</h2>
+            <p>A tornado is a rapidly rotating column of air that is in contact with both the surface of the Earth and a cumulonimbus cloud or, in rare cases, the base of a cumulus cloud.</p>
+        </section>
+        <section>
+            <h2>Formation</h2>
+            <p>Tornadoes typically form from severe thunderstorms when warm, moist air meets cold, dry air, creating instability in the atmosphere.</p>
+        </section>
+        <section>
+            <h2>Characteristics</h2>
+            <ul>
+                <li>Tornadoes can vary in size and intensity.</li>
+                <li>They are often accompanied by strong winds, hail, and thunderstorms.</li>
+                <li>The Enhanced Fujita (EF) Scale is used to categorize tornadoes based on their intensity and the damage they cause.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Safety Tips</h2>
+            <ul>
+                <li>Seek shelter in a sturdy building or storm shelter.</li>
+                <li>Avoid windows and stay away from doors.</li>
+                <li>If caught outdoors, seek low-lying areas and lie flat, covering your head.</li>
+            </ul>
+        </section>
+    </main>
+    <footer style="background-color: #007bff; color: #fff; padding: 10px; text-align: center; font-family: Arial, sans-serif;">
+        <p>&copy; 2024 All About Tornadoes</p>
+    </footer>
+</body>
+</html>
